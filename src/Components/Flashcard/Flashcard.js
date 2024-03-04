@@ -8,7 +8,10 @@ const Flashcard = ({ flashcard }) => {
 			<div className="front">
 				{flashcard.question}
 			</div>
-			<div className="back">{flashcard.answer}</div>
+			<div className="back">
+				<hr />
+				{flashcard.answer}
+			</div>
 		</div>
 	);
 };

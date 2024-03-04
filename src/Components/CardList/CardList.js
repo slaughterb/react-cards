@@ -4,9 +4,9 @@ import Flashcard from '../Flashcard/Flashcard';
 const CardList = ({ flashcards }) => {
 	return (
 		<div className="card-container">
-			{flashcards.map((card) => {
+			{flashcards.map((card, i) => {
 				return (
-					<div>
+					<div key={i}>
 						<div className="card-header overlay-container">#{card.id} of {flashcards.length}</div>
 						<Flashcard flashcard={card} key={card.id} />
 					</div>

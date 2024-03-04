@@ -13,6 +13,15 @@ const Navbar = () => {
           <NavLink to="/javascript">
             JavaScript
           </NavLink>
+          <NavLink to="/react">
+            React.js
+          </NavLink>
+          <NavLink to="/node">
+            Node.js
+          </NavLink>
+          <NavLink to="dsa">
+            DSA
+          </NavLink>
         </NavMenu>
       </Nav>
     </div>

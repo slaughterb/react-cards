@@ -1,5 +1,4 @@
 import React from 'react';
-import Flashcard from '../../Components/Flashcard/Flashcard';
 import CardList from '../../Components/CardList/CardList';
 import flashcardData from '../../CardData/cardData.json';
 

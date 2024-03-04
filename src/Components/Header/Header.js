@@ -16,7 +16,7 @@ const Header = () => {
 		<Router>
 			<Navbar />
 			<Routes>
-				<Route path="/" element={<Home />} />
+				<Route path="/react-cards" element={<Home />} />
 				<Route path="/javascript" element={<QuestionsPage topic="javascript" sources={javaScriptSources} />} />
 				<Route path="/react" element={<QuestionsPage topic="react" sources={reactSources} />} />
 				<Route path="/node" element={<QuestionsPage topic="node" sources={nodeSources} />} />

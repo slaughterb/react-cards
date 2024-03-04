@@ -1,7 +1,5 @@
-import React, { useState } from 'react';
-import CardList from './Components/CardList/CardList';
+import React from 'react';
 import Header from './Components/Header/Header';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './App.css';
 

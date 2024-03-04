@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-cards/static/css/main.8b3eab2f.chunk.css",
-    "main.js": "/react-cards/static/js/main.49183201.chunk.js",
-    "main.js.map": "/react-cards/static/js/main.49183201.chunk.js.map",
-    "runtime~main.js": "/react-cards/static/js/runtime~main.46996a44.js",
-    "runtime~main.js.map": "/react-cards/static/js/runtime~main.46996a44.js.map",
-    "static/js/2.ba026651.chunk.js": "/react-cards/static/js/2.ba026651.chunk.js",
-    "static/js/2.ba026651.chunk.js.map": "/react-cards/static/js/2.ba026651.chunk.js.map",
-    "static/js/3.1af95c37.chunk.js": "/react-cards/static/js/3.1af95c37.chunk.js",
-    "static/js/3.1af95c37.chunk.js.map": "/react-cards/static/js/3.1af95c37.chunk.js.map",
+    "main.css": "/react-cards/static/css/main.34b00e1e.chunk.css",
+    "main.js": "/react-cards/static/js/main.c7a2e31c.chunk.js",
+    "main.js.map": "/react-cards/static/js/main.c7a2e31c.chunk.js.map",
+    "runtime~main.js": "/react-cards/static/js/runtime~main.ed848db0.js",
+    "runtime~main.js.map": "/react-cards/static/js/runtime~main.ed848db0.js.map",
+    "static/js/2.47f01391.chunk.js": "/react-cards/static/js/2.47f01391.chunk.js",
+    "static/js/2.47f01391.chunk.js.map": "/react-cards/static/js/2.47f01391.chunk.js.map",
+    "static/js/3.c60c86f6.chunk.js": "/react-cards/static/js/3.c60c86f6.chunk.js",
+    "static/js/3.c60c86f6.chunk.js.map": "/react-cards/static/js/3.c60c86f6.chunk.js.map",
     "index.html": "/react-cards/index.html",
-    "precache-manifest.124d4f55d1023d1336440e4a8f9b68b2.js": "/react-cards/precache-manifest.124d4f55d1023d1336440e4a8f9b68b2.js",
+    "precache-manifest.b4eb74b8a6b8c754b07cb603de61bf26.js": "/react-cards/precache-manifest.b4eb74b8a6b8c754b07cb603de61bf26.js",
     "service-worker.js": "/react-cards/service-worker.js",
-    "static/css/main.8b3eab2f.chunk.css.map": "/react-cards/static/css/main.8b3eab2f.chunk.css.map",
+    "static/css/main.34b00e1e.chunk.css.map": "/react-cards/static/css/main.34b00e1e.chunk.css.map",
     "static/media/App.css": "/react-cards/static/media/pexels-notebg.60b1f37a.jpg"
   }
 }

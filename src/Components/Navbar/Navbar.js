@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="navbar"> 
       <Nav>
         <NavMenu> 
-          <NavLink to="/">
+          <NavLink to="/react-cards">
             Home
           </NavLink>
           <NavLink to="/javascript">

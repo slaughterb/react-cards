@@ -5,7 +5,6 @@ const Navbar = () => {
   return (
     <div className="navbar"> 
       <Nav>
-        <Bars />
         <NavMenu> 
           <NavLink to="/">
             Home

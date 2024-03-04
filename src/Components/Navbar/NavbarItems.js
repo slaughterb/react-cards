@@ -28,15 +28,6 @@ export const Bars = styled(FaBars)`
   display: none;
   color: #808080;
 
-  @media screen and (max-width: 768px) {
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 0;
-    transform: translate(-100%, 75%);
-    font-size: 1.8rem;
-    cursor: pointer;
-  }
 `;
 
 export const NavMenu = styled.div`
@@ -44,9 +35,7 @@ export const NavMenu = styled.div`
   align-items: center;
   margin-right: -24px;
 
-  @media screen and (max-width: 768px) {
-    display: none;
-  }
+
 `;
 
 export const NavBtn = styled.nav`
@@ -54,9 +43,7 @@ export const NavBtn = styled.nav`
   align-items: center;
   margin-right: 24px;
 
-  @media screen and (max-width: 768px) {
-    display: none;
-  }
+
 `;
 
 export const NavBtnLink = styled(Link)`
